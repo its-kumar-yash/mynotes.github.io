@@ -1,0 +1,31 @@
+body{
+    background-color: #262626;
+}
+
+div h1{
+    color: aqua;
+}
+
+.card-body{
+    color: #00e7ff;
+    background-color: #444341;
+    border: 2px solid white;
+    
+}
+
+hr{
+    background-color: #ffff;
+}
+
+#notes b{
+    color: aqua;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #78f7f1;
+    background-color: #3c3c3c;
+    padding: 20px;
+}
